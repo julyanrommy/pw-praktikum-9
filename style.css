@@ -1,0 +1,17 @@
+.judul {
+  width: auto;
+  height: auto;
+  list-style: georgian;
+  margin: auto;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.tdl {
+  table-layout: auto;
+  text-align: center;
+  background: rgb(213, 255, 113);
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}

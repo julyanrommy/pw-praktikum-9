@@ -1,0 +1,16 @@
+.judul2 {
+  text-align: center;
+  width: auto;
+  font-size: x-large;
+}
+
+.form-isi {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  width: auto;
+  height: auto;
+  padding: 0%;
+  margin-left: 0%;
+  text-align: center;
+  line-break: auto;
+}
